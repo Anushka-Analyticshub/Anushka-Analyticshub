@@ -30,7 +30,7 @@
 
 ## Connect With Me
 
-* LinkedIn: linkedin.com/in/anushka~gupta
+* LinkedIn: http://linkedin.com/in/anushka~gupta
 * Portfolio: https://anushkagup-portfolio.lovable.app
 
 ⭐ Exploring how data can drive smarter business decisions.
