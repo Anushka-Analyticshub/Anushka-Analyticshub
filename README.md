@@ -8,8 +8,7 @@
 
 * Microsoft Excel
 * Power BI
-* SQL
-* Python
+* Python basic
 * Data Analysis
 * Data Visualization
 * Business Intelligence
