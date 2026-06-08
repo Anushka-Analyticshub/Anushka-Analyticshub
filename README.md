@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Anushka Gupta 👋
 
-<!--
-**Anushka-G12/Anushka-G12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BBA (Hons.) Business Intelligence & Analytics Student
 
-Here are some ideas to get you started:
+📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Microsoft Excel
+* Power BI
+* SQL
+* Python
+* Data Analysis
+* Data Visualization
+* Business Intelligence
+
+## Projects
+
+* Superstore Sales Dashboard (Excel)
+* AI Tool Research Project
+* BCG X Data for Decision Makers Simulation
+* Deloitte Business Analytics Job Simulation
+
+## Currently Learning
+
+* Advanced Excel
+* Power BI
+* SQL
+* Business Analytics
+
+## Connect With Me
+
+* LinkedIn: Add your LinkedIn URL
+* Portfolio: https://anushkagup-portfolio.lovable.app
+
+⭐ Exploring how data can drive smarter business decisions.
